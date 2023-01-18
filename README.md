@@ -213,4 +213,4 @@ The uses of Washerman's Lake in Krishnagiri District are
 ![HTML Validator](./screenshots/valid.png)
 
 ## Result:
-The program for implementing image map is executed successfully
+The program for implementing image map is executed successfully.
